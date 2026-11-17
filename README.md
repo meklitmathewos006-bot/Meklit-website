@@ -1,6 +1,16 @@
-# Untitled
+# My First Website
 
-A Pen created on CodePen.
+Welcome to my first website!
 
-Original URL: [https://codepen.io/editor/MakiMati/pen/01a1d56d-1cbf-720f-88e4-6b5697bf46fa](https://codepen.io/editor/MakiMati/pen/01a1d56d-1cbf-720f-88e4-6b5697bf46fa).
+This website was created as part of my Code Your Future course.
+
+## Technologies Used
+- HTML
+- CSS
+
+## About My Project
+
+This is my first web development project. I created this website to practise building webpages using HTML,and CSS.
+
+Thank you for visiting my website!
 
